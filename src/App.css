@@ -12,7 +12,7 @@
   padding: 15px 50px;
 }
 
-.trnsactions {
+.Transactions {
   width: 400px
 }
 
@@ -21,7 +21,7 @@
 }
 
 .expense-container {
-  width: 400px;
+  width: 200px;
   display: flex;
   justify-content: space-around;
   background-color: white;

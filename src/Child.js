@@ -56,7 +56,7 @@ function Child() {
             
 
 
-
+        
             <h3>Add new transaction</h3>
             <hr />
 
